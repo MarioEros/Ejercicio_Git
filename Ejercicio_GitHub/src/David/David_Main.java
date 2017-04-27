@@ -10,5 +10,7 @@ package David;
  * @author Mauna Kea
  */
 public class David_Main {
-    
+    public static void main(String[] args) {
+        System.out.println("e");
+    }
 }
