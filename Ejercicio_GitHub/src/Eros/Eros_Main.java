@@ -11,6 +11,11 @@ package Eros;
  */
 public class Eros_Main {
     public static void main(String[] args) {
-        System.out.println("Hola mundoo!");
+        System.out.println("Hola mundo!");
+        int i=0;
+        while(i<10){
+            System.out.println("Molo mucho");
+            i++;
+        }
     }
 }
