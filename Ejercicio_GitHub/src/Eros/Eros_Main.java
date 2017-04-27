@@ -11,6 +11,6 @@ package Eros;
  */
 public class Eros_Main {
     public static void main(String[] args) {
-        System.out.println("Hola mundoo!");
+        System.out.println("Hola mundoa!");
     }
 }
