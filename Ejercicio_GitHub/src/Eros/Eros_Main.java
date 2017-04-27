@@ -10,5 +10,7 @@ package Eros;
  * @author Mauna Kea
  */
 public class Eros_Main {
-    
+    public static void main(String[] args) {
+        System.out.println("Hola mundo!");
+    }
 }
